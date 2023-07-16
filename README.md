@@ -1,3 +1,4 @@
 # gitskills
 this is readme!
-Create a new branch is quick and simple!
+Create a new branch is quick!
+forbid ff!
